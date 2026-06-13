@@ -3,6 +3,7 @@
 > *Fullstack developer yang suka bikin hal-hal keren dari nol — dari pixel di frontend sampai query di backend.*
 
 ---
+
 ## 🙋‍♂️ Tentang Aku
 
 - 🔭 Lagi freelance di Sribu.com — ngerjain web app buat berbagai klien
@@ -39,8 +40,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KevinIbra&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinIbra&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KevinIbra&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinIbra&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 <p align="center">
