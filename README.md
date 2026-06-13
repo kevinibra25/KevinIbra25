@@ -3,7 +3,6 @@
 > *Fullstack developer yang suka bikin hal-hal keren dari nol — dari pixel di frontend sampai query di backend.*
 
 ---
-
 ## 🙋‍♂️ Tentang Aku
 
 - 🔭 Lagi freelance di Sribu.com — ngerjain web app buat berbagai klien
