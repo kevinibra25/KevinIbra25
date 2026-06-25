@@ -37,7 +37,7 @@
 
 ---
 
-```md
+
 ## 📊 GitHub Stats
 
 <p align="center">
